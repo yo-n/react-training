@@ -5,5 +5,4 @@ node npmの管理はvoltaを利用 \
 
 
 * 各ディレクトリの教材 \
-next/shimabu \
-[Next.jsと一緒に学ぶReact講座 - YouTube](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
+[React Full Course for free ⚛️ (2024) - YouTube](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
